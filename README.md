@@ -1,0 +1,3 @@
+Resolução da prova 08 do modulo PYIA - Revisão Geral II - Aluno Ricardo Soares de Moura Altmann Filho 20/10/2002
+
+[PYIA-A08] Importe o módulo 'os' e use a função 'listdir' para listar todos os arquivos e pastas presentes no diretório onde o script Python está sendo executado. A função 'listdir' retornará uma lista contendo os nomes dos arquivos e pastas. Após obter essa lista, exiba cada item da lista individualmente na saída do console.
